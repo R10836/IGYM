@@ -1,0 +1,6 @@
+{
+  "name": "iGYM Autonomous Agent Dashboard",
+  "description": "An advanced cyber-punk styled dashboard for monitoring autonomous agents, featuring task trajectories, memory tree visualization, and distributed resource benchmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
